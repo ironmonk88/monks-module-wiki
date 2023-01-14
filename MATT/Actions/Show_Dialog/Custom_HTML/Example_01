@@ -1,0 +1,6 @@
+<form>
+  Choose your favorite dessert:
+<input type="hidden" id="dialog-redirect" name="goto" />
+  <button type="button" onclick="$('#dialog-redirect').val('Cake');">Cake</button>
+  <button type="button" onclick="$('#dialog-redirect').val('Pie');">Pie</button>
+</form>
