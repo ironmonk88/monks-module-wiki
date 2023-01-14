@@ -1,0 +1,12 @@
+<form>
+  Choose your favorite dessert:
+<input type="hidden" id="dialog-redirect" name="goto" />
+    <div class="flexrow">
+        <div class="flexcol" style="background-color:#FFB695;">
+  <button type="button" onclick="$('#dialog-redirect').val('Cake');">Cake</button>
+  <button type="button" onclick="$('#dialog-redirect').val('Ice Cream');">Ice Cream</button>
+        </div>
+        <div class="flexcol" style="background-color:#96D1CD;">
+  <button type="button" onclick="$('#dialog-redirect').val('Pie');">Pie</button>
+ <button type="button" onclick="$('#dialog-redirect').val('Cookies');">Cookies</button>
+</form>
