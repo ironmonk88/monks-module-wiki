@@ -1,0 +1,9 @@
+<form>
+  Choose your favorite anchor:
+<input type="radio" name="goto" value="anchor1" />
+<label>Anchor1</label><br>
+<input type="radio" name="goto" value="anchor2" />
+<label>Anchor2</label><br>
+<input type="radio" name="goto" value="anchor3" />
+<label>Anchor3</label><br>
+</form>
