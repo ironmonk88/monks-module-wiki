@@ -5,4 +5,4 @@ This is the wiki for Monk's Modules
 
 ## Important
 
-Please do not open tickets here. Any issues should go opened on their module's respective GitHub. Any documentation issues can be posted here.
+Please do not open bug tickets here; any issues should be opened on their module's respective GitHub.
